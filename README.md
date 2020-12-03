@@ -39,13 +39,14 @@ There are few important keywords tht one must know before creating a chatbot:
 - Actions — Actions are essentially the bot's activities, either asking for some more specifics to get all the entities or integrating with some APIs or asking the database to get/save some stuff.
 
 Documentation for RASA : [Documentation](https://rasa.com/docs/)
+
 RASA files for BOTAnshul: [Link](https://github.com/anshulp2912/BOTAnshul/tree/main/source)
 
 ### PROJECT FLOW STRUCTURE
 ![project-flow](https://github.com/anshulp2912/BOTAnshul/blob/main/media/BOTAnshulPipeline.jpg?raw=true)
 
 ### Gallery :camera_flash:
-Image Library of Chatbot in Custom UI : 
+Image Library of Chatbot in Custom UI : [Gallery](https://github.com/anshulp2912/BOTAnshul/blob/main/media/gallery.md)
 
 ### Things left to do :alarm_clock::
 :x: Contact Intent
